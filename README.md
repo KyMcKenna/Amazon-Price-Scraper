@@ -1,2 +1,2 @@
 # Amazon-Price-Scraper
-Price Scraper &amp; Email notification for Amazon item
+Price Scraper & Email notification for Amazon items.
